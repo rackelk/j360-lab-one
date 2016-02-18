@@ -1,0 +1,54 @@
+
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="Ron Swanson Fun Facts">
+<meta name="keywords" content="Ron Swanson, Parks and Rec, Parks and Recreation, Fan, Swanson, television">
+<meta name="author" content="Rachel Krauss">
+
+<title>Timeline</title>
+<link href="site.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+
+<div id="Header">
+	<h1>Ron Swanson</h1>
+</div>
+
+<div id="nav">
+	<nav>
+		<ul>
+			<li><a href="index.html">Homepage</a></li>
+			<li><a href="Biography.html">Biography</a></li>
+			<li><a href="RelatedLinks.html">Related Links</a></li>
+			<li><a href="FavoriteMoments.html">Favorite Moments</a></li>
+			<li><a href="Timeline.html">Timeline</a></li>
+			<li><a href="FunFacts.html">Fun Facts</a></li>
+		</ul>
+	
+	</nav>
+</div>
+
+<div id="H1">
+<h1>Fun Facts</h1>
+</div>
+
+<div id="funfacts">
+	<ol>
+		<li>Ron Swanson loves puzzles and scavenger hunts. </li>
+		<li>Once ate 51 eggs in one sitting, allowing his picture to be hung in the Hall of Fame in J.J.’s Diner.</li>
+		<li>Has won an award for best chair at The Indiana Woodworking Ceremony.</li>
+		<li>He believes that any dog under 50 pounds is a cat, and that cats are pointless.</li>
+		<li>Favorite drink is Lagavulin Single Malt Scotch Whiskey.</li>
+		<li>When at a buffet, he chooses quantity over quality.</li>
+		<li>His ideal night is stepping onto his porch are and grilling up a thick slab of something's flesh.</li>
+		<li>He has 3 brothers</li>
+		<li>The first time he cried was when he was hit by a school bus at age 7. The only other time he cried was when Little Sebastian died.</li>
+		<li>Ron moonlights as a jazz saxophonist named "Duke Silver."</li>
+	</ol>
+
+
+
+
+</body>
+</html>
