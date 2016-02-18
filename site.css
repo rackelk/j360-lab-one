@@ -1,15 +1,16 @@
 @charset "UTF-8";
+
 	#header {
-	color: #ffffff;
 	text-align: center;
 	font-size: 40px;
-	background: black;
-	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	background: url(https://c2.staticflickr.com/6/5066/5617961001_8d6e8c8432_z.jpg);
+	font-family: "Rockwell", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	padding: 5px 8px 5px 8px;
+	color:white;
 	} 
 
 	#nav {
-	 background-color: #b3cc99;
+	 background-color: #5C4033;
 	 text-align: center;
 	 padding: 8 px;
 	 }
@@ -27,7 +28,7 @@
 	}
 	
 	a:hover {
-	color: green;
+	color: #8E6B23;
 	}
 
 
@@ -36,24 +37,29 @@ body {
    font-size:24px
 		}
 		
+	
 	#H1 {
 	text-align: center;
 	font-size: 30px;
-	}
+	color:#8E2323;
+		}
 	
 	#p1 {
 	text-align: left;
    font-size: 25px;
-   }
+   		}
    
    img {
       text-align: center;
       padding: 10px;
       float:left;
-	}
+		}
+		
+	#funfacts {
+	 text-align: left;
+	 padding: 8 px;
+		}
 
-   
-   }
 
   
 }/* CSS Document */
