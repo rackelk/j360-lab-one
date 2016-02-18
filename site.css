@@ -41,8 +41,20 @@ body {
 	font-size: 30px;
 	}
 	
+	#p1 {
+	text-align: left;
+   font-size: 25px;
+   }
    
+   img {
+      text-align: center;
+      padding: 10px;
+      float:left;
+	}
+
    
+   }
+
   
 }/* CSS Document */
 
